@@ -11,34 +11,4 @@
     "annee": "2000",
     "dispo": false
   },
-  {
-    "titre": "les jardins du vent",
-    "auteur": "amina lakhdar",
-    "annee": "1998",
-    "dispo": true
-  },
-  {
-    "titre": "la dernière étoile",
-    "auteur": "karim ben yedder",
-    "annee": "2010",
-    "dispo": false
-  },
-  {
-    "titre": "chemins invisibles",
-    "auteur": "sami trabelsi",
-    "annee": "2016",
-    "dispo": true
-  },
-  {
-    "titre": "mémoire d'une mer calme",
-    "auteur": "nour chatti",
-    "annee": "2004",
-    "dispo": true
-  },
-  {
-    "titre": "le secret des dunes",
-    "auteur": "mohamed ghozzi",
-    "annee": "2019",
-    "dispo": false
-  }
 ]
